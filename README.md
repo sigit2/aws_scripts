@@ -1,1 +1,1 @@
-# aws_scripts
+# Miscellaneous collection of Bash scripts for AWS.
