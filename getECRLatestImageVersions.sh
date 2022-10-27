@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# List latest version of ECR repository images
+
 if [ $# -eq 0 ] ; then
     echo "No region specified"
     exit 1
